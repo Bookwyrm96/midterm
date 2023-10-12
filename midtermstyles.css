@@ -3,3 +3,9 @@ h1#site-title{
     text-align:center;
     font-size: 72px;
 }
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(215, 248, 194);
+    text-align:justify;
+    color:black;
+}
