@@ -3,9 +3,14 @@ h1#site-title{
     text-align:center;
     font-size: 72px;
 }
+.container{
+    width:96%;
+    max-width: 1020px;
+    margin: 0 auto;
+}
 body{
     font-family:'Times New Roman', Times, serif;
-    background-color: rgb(215, 248, 194);
+    background-color: rgb(202, 238, 179);
     text-align:justify;
     color:black;
 }
