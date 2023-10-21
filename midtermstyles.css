@@ -8,6 +8,16 @@ h1#site-title{
     max-width: 1020px;
     margin: 0 auto;
 }
+.strokeme
+{
+    color: black;
+    text-shadow:
+    -1px -1px 0 white,
+    1px -1px 0 white,
+    -1px 1px 0 white,
+    1px 1px 0 white;
+    
+}
 body{
     font-family:'Times New Roman', Times, serif;
     background-color: rgb(202, 238, 179);
