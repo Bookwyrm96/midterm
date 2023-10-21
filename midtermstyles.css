@@ -8,6 +8,7 @@ h1#site-title{
 }
 .container{
     width:96%;
+    max-width: 1020px;
     margin: 0 auto;
 }
 body{
