@@ -18,13 +18,11 @@ body{
     color:black;
 }
 nav ul li { 
-    padding: 24px;
     display: inline;
     overflow: hidden;
   }
 footer p{
     text-align: center;
-    padding-bottom: 24px;
   }
   footer nav ul li{
     background: #8ce892;
@@ -32,7 +30,6 @@ footer p{
     margin: 0 auto;
     list-style: none;
     text-decoration: none;
-    padding: 24px;
     border: 1px solid black;
     color:black;
   }
