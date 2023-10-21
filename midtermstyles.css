@@ -1,5 +1,5 @@
 h1#site-title{
-    text-align:justify;
+    text-align:center;
     font-size: 60px;
     color:black;
     margin-top:40px;
@@ -13,9 +13,12 @@ h1#site-title{
 body{
     font-family:'Times New Roman', Times, serif;
     background-color: rgb(202, 238, 179);
-    text-align:center;
     color:black;
 }
+figure {
+    border: 2px solid black;
+    padding: 20px;
+  }
 header nav ul {
     background: #8ce892;
     text-align: center;
