@@ -1,7 +1,7 @@
 h1#site-title{
     color:black;
     text-align:center;
-    font: 96px;
+    font-size: 96px;
     -webkit-text-fill-color: white;
     -webkit-text-stroke: 1.5px black;
     margin-top: 32px;
