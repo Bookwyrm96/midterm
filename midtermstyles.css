@@ -20,14 +20,17 @@ body{
 nav ul li { 
     display: inline;
     overflow: hidden;
+    padding: 12px 0;
   }
 footer p{
     text-align: center;
+    padding: 12px 0;
   }
   footer nav ul li{
     background: #8ce892;
     text-align: center;
     margin: 0 auto;
+    padding: 12px 0;
     list-style: none;
     text-decoration: none;
     border: 1px solid black;
