@@ -31,6 +31,8 @@ figure.section-image {
   }
   figure.main-image{
     object-fit: contain;
+    max-width:1020px;
+    height:auto;
 
   }
 header nav ul {
