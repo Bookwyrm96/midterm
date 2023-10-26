@@ -22,7 +22,6 @@ figure.section-image {
   }
   figure.main-image {
     border: 2px solid black;
-    padding: 12px;
     max-width: 1020px;
   }
   figure.section-image{
