@@ -30,10 +30,9 @@ figure.section-image {
     margin-right: 20px;
   }
   figure.main-image{
-    width:50%;
-    max-width: 1020px;
+    width:100%;
     margin: 0 auto;
-    
+
   }
 header nav ul {
     background: #8ce892;
