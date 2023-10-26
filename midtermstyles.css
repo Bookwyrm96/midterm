@@ -33,7 +33,7 @@ figure.section-image {
     object-fit: contain;
     max-width:1020px;
     height:auto;
-    margin:12px;
+    margin-left:12px;
   }
 header nav ul {
     background: #8ce892;
