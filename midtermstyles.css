@@ -20,20 +20,21 @@ figure.section-image {
     padding: 12px;
     max-width: 510px;
   }
+  figure.section-image{
+    float:left;
+    margin-right: 20px;
+  }
   figure.main-image {
     border: 2px solid black;
     max-width: 1020px;
     align-items: center;
-  }
-  figure.section-image{
-    float:left;
-    margin-right: 20px;
   }
   figure.main-image{
     object-fit: contain;
     max-width:1020px;
     height:auto;
     margin-left:12px;
+    margin: right 0;
   }
 header nav ul {
     background: #8ce892;
