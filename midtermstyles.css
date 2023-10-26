@@ -32,6 +32,7 @@ figure.section-image {
   figure.main-image{
     width:100%;
     margin: 0 auto;
+    object-fit: contain;
 
   }
 header nav ul {
