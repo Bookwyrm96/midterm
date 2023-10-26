@@ -15,10 +15,15 @@ body{
     background-color: rgb(202, 238, 179);
     color:black;
 }
-figure {
+figure.section-image {
     border: 2px solid black;
     padding: 12px;
     max-width: 510px;
+  }
+  figure.main-image {
+    border: 2px solid black;
+    padding: 12px;
+    max-width: 1020px;
   }
   figure.section-image{
     float:left;
