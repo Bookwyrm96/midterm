@@ -23,6 +23,7 @@ figure.section-image {
   figure.main-image {
     border: 2px solid black;
     max-width: 1020px;
+    align-items: center;
   }
   figure.section-image{
     float:left;
