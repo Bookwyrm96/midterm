@@ -67,4 +67,6 @@ footer p{
     text-decoration: none;
     border: 1px solid black;
     color:black;
+    min-height:100%;
+    bottom: 0;
   }
