@@ -30,8 +30,6 @@ figure.section-image {
     margin-right: 20px;
   }
   figure.main-image{
-    width:1020px;
-    height:573.75px;
     object-fit: contain;
 
   }
