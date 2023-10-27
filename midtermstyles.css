@@ -27,14 +27,13 @@ figure.section-image {
   figure.main-image {
     border: 2px solid black;
     max-width: 1020px;
-    align-items: center;
+    float:center;
   }
   figure.main-image{
     object-fit: contain;
     max-width:1020px;
     height:auto;
-    margin-left:12px;
-    margin: right 0;
+    float:center;
   }
 header nav ul {
     background: #8ce892;
