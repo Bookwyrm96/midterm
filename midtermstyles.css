@@ -26,8 +26,9 @@ figure.section-image {
   }
   figure.main-image {
     border: 2px solid black;
-    max-width: 1020px;
+    max-width: 860px;
     float:center;
+    max-height: 480px;
   }
   figure.main-image{
     object-fit: contain;
