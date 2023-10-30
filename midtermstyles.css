@@ -63,10 +63,8 @@ body{
 }
 figure.section-image {
     border: 2px solid black;
-    padding: 12px;
     max-width: 510px;
     float:left;
-    margin-right: 20px;
   }
 ul.b {
     list-style-type: circle;
