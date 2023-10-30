@@ -45,14 +45,21 @@ figure.main-image{
   margin-left: 50px;
   text-align:center;
 }
+h2#gift-cards{
+  text-align:center;
+}
+h3#article-title{
+  text-align: center;
+  text-decoration:underline;
+}
 body{
     font-family:'Times New Roman', Times, serif;
     background-color: rgb(192, 213, 236);
     color:black;
-    text-align:justify;
+    text-align:left;
     margin-right: 50px;
     margin-left: 50px;
-    line-height: 1.8;
+    line-height: 1.5;
 }
 figure.section-image {
     border: 2px solid black;
