@@ -58,17 +58,14 @@ figure.section-image {
     float:left;
     margin-right: 20px;
   }
-footer p{
+footer#page-footer{
     text-align: center;
     padding: 12px 0;
     background: #8cbde8;
     text-align: center;
     margin: 0 auto;
-    margin: top 40px;
-    padding: 12px 0;
+    padding: 12px;
     text-decoration: none;
     border: 1px solid black;
     color:black;
-    min-height:100%;
-    bottom: 0;
   }
