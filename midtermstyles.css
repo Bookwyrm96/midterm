@@ -7,7 +7,7 @@ h1#site-title{
 } 
 .container{
     width:96%;
-    max-width: 1020px;
+    max-width: 860px;
     margin: 0 auto;
 }
 body{
@@ -35,6 +35,8 @@ figure.section-image {
     max-width:1020px;
     height:auto;
     float:center;
+    margin-bottom: 50px;
+    margin-left: 50px;
   }
 header nav ul {
     background: #8cbde8;
