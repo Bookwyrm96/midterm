@@ -63,7 +63,7 @@ body{
 }
 figure.section-image {
     border: 2px solid black;
-    max-width: 510px;
+    max-width: 255px;
     float:left;
   }
 ul.b {
