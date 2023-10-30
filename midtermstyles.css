@@ -12,7 +12,7 @@ h1#site-title{
 }
 body{
     font-family:'Times New Roman', Times, serif;
-    background-color: rgb(202, 238, 179);
+    background-color: rgb(179, 207, 238);
     color:black;
 }
 figure.section-image {
@@ -37,7 +37,7 @@ figure.section-image {
     float:center;
   }
 header nav ul {
-    background: #8ce892;
+    background: #8cbde8;
     text-align: center;
     margin: 0 auto;
     list-style: none;
@@ -61,7 +61,7 @@ header nav ul {
 footer p{
     text-align: center;
     padding: 12px 0;
-    background: #8ce892;
+    background: #8cbde8;
     text-align: center;
     margin: 0 auto;
     margin: top 40px;
