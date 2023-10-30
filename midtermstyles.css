@@ -51,6 +51,7 @@ body{
     text-align:justify;
     margin-right: 50px;
     margin-left: 50px;
+    line-height: 1.8;
 }
 figure.section-image {
     border: 2px solid black;
