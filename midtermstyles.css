@@ -45,6 +45,7 @@ figure{
 figure.main-image{
   background-color:rgb(192, 213, 236);
   border-color:black;
+  padding:100px;
   max-width:1020px;
   text-align:center;
 }
