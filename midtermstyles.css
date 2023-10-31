@@ -34,6 +34,9 @@ nav ul li a:hover {
     background-color: rgb(192, 213, 236);
     margin:0 auto;
 }
+.box{
+  text-align: center;
+}
 p#text1 {
   padding: 20px;
 }
