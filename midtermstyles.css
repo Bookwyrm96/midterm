@@ -35,7 +35,7 @@ nav ul li a:hover {
     width:96%;
     max-width: 1020px;
     margin-right: auto;
-    margin-left:auto;
+    margin-left:50px;
     background-color: rgb(192, 213, 236);
 }
 figure{
