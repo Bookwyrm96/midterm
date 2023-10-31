@@ -28,14 +28,14 @@ header nav ul li a{
 nav ul li a:hover {
   text-decoration: underline;
 }
-#text1 {
-  padding: 10px;
-}
 .container{
     width:96%;
-    max-width: 1400px;
-    margin: left 500px;
+    max-width: 1020px;
     background-color: rgb(192, 213, 236);
+    margin:0 auto;
+}
+p#text1 {
+  padding: 20px;
 }
 figure{
   border:2px solid black;
