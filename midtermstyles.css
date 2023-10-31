@@ -6,7 +6,7 @@ h1#site-title{
     margin-bottom:24px;
 } 
 header nav ul {
-  background: #8cbde8;
+  background: rgb(192, 213, 236) ;
   text-align: center;
   margin: 0 auto;
   list-style: none;
