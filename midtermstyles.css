@@ -48,15 +48,15 @@ figure.main-image{
 }
 h2#gift-cards{
   text-align:center;
-  font-size: 16px;
+  font-size: 24px;
 }
 h3#article-title{
   text-align: center;
   text-decoration:underline;
-  font-size:16px;
+  font-size:24px;
 }
 h4#section-title{
-  font-size: 16px;
+  font-size: 24px;
 }
 body{
     font-family:'Times New Roman', Times, serif;
@@ -64,9 +64,9 @@ body{
     color:black;
     text-align:left;
     margin-right: 50px;
-    margin-left: 50px;
+    margin-left: 100px;
     line-height: 1.5;
-    font-size: 12px;
+    font-size: 16px;
     max-width:1020px;
 }
 figure.section-image {
