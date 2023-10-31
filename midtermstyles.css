@@ -8,7 +8,7 @@ h1#site-title{
 header nav ul {
   background: #8cbde8;
   text-align: center;
-  margin: 0 auto;
+  margin: auto;
   list-style: none;
   padding: 10px;
   border: 1px solid black;
@@ -31,7 +31,7 @@ nav ul li a:hover {
 .container{
     width:96%;
     max-width: 1020px;
-    margin: 0 auto;
+    margin: auto;
     background-color: rgb(192, 213, 236);
 }
 figure{
@@ -45,7 +45,7 @@ figure.main-image{
   text-align:center;
 }
 h2#gift-cards{
-  text-align:justify;
+  text-align:center;
   font-size: 48px;
 }
 h3#article-title{
@@ -69,6 +69,7 @@ figure.section-image {
     border: 2px solid black;
     max-width: 400px;
     float:left;
+    text-align:center;
   }
 ul.b {
     list-style-type: circle;
@@ -80,7 +81,7 @@ footer#page-footer{
     padding: 12px 0;
     background: #8cbde8;
     text-align: center;
-    margin: 0 auto;
+    margin: auto;
     padding: 12px;
     text-decoration: none;
     border: 1px solid black;
