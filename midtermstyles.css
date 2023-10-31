@@ -28,6 +28,9 @@ header nav ul li a{
 nav ul li a:hover {
   text-decoration: underline;
 }
+#text1 {
+  padding: 10px;
+}
 .container{
     width:96%;
     max-width: 1020px;
