@@ -79,7 +79,7 @@ ul.b {
     display:list-item;
     align-items:left;
 }
-div { width: 80%; margin-left: 20%; margin-right: 10% }
+div { width: 80%; margin-left: 20%;}
 footer#page-footer{
     text-align: center;
     padding: 12px 0;
