@@ -33,6 +33,7 @@ nav ul li a:hover {
     max-width: 1020px;
     background-color: rgb(192, 213, 236);
     margin:0 auto;
+    border:1px black;
 }
 .box{
   text-align: center;
