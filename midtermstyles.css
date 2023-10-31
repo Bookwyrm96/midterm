@@ -64,9 +64,10 @@ body{
     color:black;
     text-align:left;
     margin-right: 50px;
-    margin-left: 100px;
+    margin-left: 50px;
     line-height: 1.5;
     font-size: 12px;
+    max-width:1020px;
 }
 figure.section-image {
     border: 2px solid black;
